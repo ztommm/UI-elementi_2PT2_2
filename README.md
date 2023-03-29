@@ -3,13 +3,13 @@ Unity projekts, kas demonstrē UI elementu lietojumu, par tēmu: MR. Bean
 ![MR. Bean attēls](https://www.pngarts.com/files/4/Mr.-Bean-PNG-Image-365x279.png)
 
 ## Darāmo darbu saraksts
-- [ ] Input field objekta lietojums projektā
-- [ ] Text objekta lietojums projektā
-- [ ] Button objekta lietojums projektā
+- [x] Input field objekta lietojums projektā
+- [x] Text objekta lietojums projektā
+- [x] Button objekta lietojums projektā
 - [ ] Image objekta lietojums projektā
 - [ ] Toggle objekta lietojums projektā
 - [ ] Toggle group elementa lietojums projektā
-- [ ] C# skriptu izveide un piesaiste objektiem
+- [x] C# skriptu izveide un piesaiste objektiem
 - [ ] Drop down objekta lietojums projektā
 - [ ] Slider objekta lietojums projektā
 - [ ] Audio source objekta lietojums projektā
