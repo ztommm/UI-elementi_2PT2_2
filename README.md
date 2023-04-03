@@ -6,9 +6,9 @@ Unity projekts, kas demonstrē UI elementu lietojumu, par tēmu: MR. Bean
 - [x] Input field objekta lietojums projektā
 - [x] Text objekta lietojums projektā
 - [x] Button objekta lietojums projektā
-- [ ] Image objekta lietojums projektā
-- [ ] Toggle objekta lietojums projektā
-- [ ] Toggle group elementa lietojums projektā
+- [x] Image objekta lietojums projektā
+- [x] Toggle objekta lietojums projektā
+- [x] Toggle group elementa lietojums projektā
 - [x] C# skriptu izveide un piesaiste objektiem
 - [ ] Drop down objekta lietojums projektā
 - [ ] Slider objekta lietojums projektā
