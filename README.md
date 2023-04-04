@@ -10,9 +10,11 @@ Unity projekts, kas demonstrē UI elementu lietojumu, par tēmu: MR. Bean
 - [x] Toggle objekta lietojums projektā
 - [x] Toggle group elementa lietojums projektā
 - [x] C# skriptu izveide un piesaiste objektiem
-- [ ] Drop down objekta lietojums projektā
-- [ ] Slider objekta lietojums projektā
+- [x] Drop down objekta lietojums projektā
+- [x] Slider objekta lietojums projektā
 - [ ] Audio source objekta lietojums projektā
-- [ ] Scroll view objekta lietojums projektā
+- [x] Scroll view objekta lietojums projektā
 - [ ] Drag and drop funkcionalitātes integrēšana projektā
+- [ ] Pārslēgšanās starp ainām
+- [ ] Objektu ģenerēšana
 - [ ] Projekta sagatavošana .exe un WebGL formātos
