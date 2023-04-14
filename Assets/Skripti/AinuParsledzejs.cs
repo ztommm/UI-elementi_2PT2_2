@@ -9,4 +9,14 @@ public class AinuParsledzejs : MonoBehaviour {
 		SceneManager.LoadScene ("Sakums", LoadSceneMode.Single);
 	}
 
+	public void UzUI()
+	{
+		SceneManager.LoadScene(1, LoadSceneMode.Single);
+	}
+
+	public void Apturet()
+	{
+		Application.Quit ();
+	}
+
 }
