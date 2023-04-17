@@ -6,7 +6,7 @@ public class VirtuluGenerators : MonoBehaviour {
 	public GameObject[] virtuluSagataves;
 	public float laikaIntervals = 0.9f;
 	float minPoz, maxPoz;
-	public Transform vecaks;
+	private Transform vecaks;
 
 
 	// Use this for initialization
